@@ -4,7 +4,7 @@ Professional & Beautiful Design
 -->
 
 <div align="center">
-  <img src="profile.jpg" alt="Mostafa Eltaweel" width="160" style="border-radius: 50%; box-shadow: 0 10px 20px rgba(0,0,0,0.2); border: 3px solid #0A66C2;">
+  <img src="Mostafa Imag.jpg" alt="Mostafa Eltaweel" width="160" style="border-radius: 50%; box-shadow: 0 10px 20px rgba(0,0,0,0.2); border: 3px solid #0A66C2;">
 </div>
 
 <h1 align="center">Mostafa Eltaweel</h1>
@@ -144,4 +144,3 @@ I'm actively looking for roles in **Compliance Data Analytics**, **Risk Modeling
   <i>“Data is just noise until you give it a voice. Let me make your data speak.”</i>
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=mostafaeltawcel&style=flat-square&color=0A66C2" alt="Profile views">
-</div># Mostafa-Eltaweel_portfolio-
